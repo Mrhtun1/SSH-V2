@@ -27,9 +27,9 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h4><font color='red'>
+servermessage="<h6><font color='red'>
 ▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬
-</font></h4>
+</font></h6>
 <h3><font color='green'>
 🚀🚀🚀MR.HTUN GCP SEVER🚀🚀🚀
 </font></h3>
@@ -56,7 +56,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
 IP=$(wget -qO- ipv4.icanhazip.com)
 echo ""
 echo -e "\033[1;32m===================================="
-echo -e "\033[1;32m   🌺ㅤONLY/:FORYOU&ALLㅤ🌺  " 
+echo -e "\033[1;32m  🚀 Mr.htun Gcp Sever Channel 🚀   " 
 echo -e "\033[1;32m===================================="
 echo ""
 echo -e "\033[1;37m◈─────⪧ SSH ACCOUNT ⪦─────◈"
