@@ -28,7 +28,7 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h6><font color='red'>
-▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬▬
 </font></h6>
 <h3><font color='green'>
 🚀🚀🚀MR.HTUN GCP SEVER🚀🚀🚀
@@ -37,11 +37,11 @@ servermessage="<h6><font color='red'>
 </font></h3>
 <h3><font color='blue'>Telegram Channel https://t.me/freegcp2
 </font></h3>
-<h4><font color='red'>
-▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬
-</font></h4>"
+<h6><font color='red'>
+▬▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬▬
+</font></h6>"
 #End
-#ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
+#ဒီအောက်က စာတွေပြင်ရန်မလိုပါ💞
 [[ $EUID -ne 0 ]] && echo -e "${red}Error: ${plain} You must use root user to run this script!\n" && exit 1
 
 sed -i 's/#\?AllowTcpForwarding .*/AllowTcpForwarding yes/' /etc/ssh/sshd_config && sed -i 's/#\?PasswordAuthentication .*/PasswordAuthentication yes/' /etc/ssh/sshd_config && sed -i 's/#\?Banner .*/Banner \/etc\/ssh\/gcp_404/' /etc/ssh/sshd_config && /etc/init.d/ssh restart;
@@ -68,7 +68,7 @@ echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$password"
 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$sshlimiter"
 echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m$gui"
 echo ""
-echo -e "\033[1;37m◈────⪧ ✿ ✿ Mr.htun ✿ ✿ ⪦────◈"
+echo -e "\033[1;37m◈────⪧ ❣️ ✿ Mr.htun ✿ ❣️ ⪦────◈"
 echo ""
 echo "------------------------------------"
 printf "Developed the script by \n"
@@ -86,4 +86,4 @@ echo -e "${cyan}          \|__|        \|_______|              \|__|            
 echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am Mr.htun 😎 ${plain}"
+echo -e "${cyan}❣️ I am ✿Mr.htun✿ ❣️ ${plain}"
