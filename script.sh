@@ -27,9 +27,9 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬▬
-</font></h3>
+servermessage="<h4><font color='red'>
+▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬
+</font></h4>
 <h3><font color='green'>
 🚀🚀🚀MR.HTUN GCP SEVER🚀🚀🚀
 </font></h3>
@@ -37,9 +37,9 @@ servermessage="<h3><font color='red'>
 </font></h3>
 <h3><font color='blue'>Telegram Channel https://t.me/freegcp2
 </font></h3>
-<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬▬
-</font></h3>"
+<h4><font color='red'>
+▬▬▬▬▬▬▬✿ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ✿▬▬▬▬▬▬▬
+</font></h4>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
 [[ $EUID -ne 0 ]] && echo -e "${red}Error: ${plain} You must use root user to run this script!\n" && exit 1
